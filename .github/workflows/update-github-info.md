@@ -7,7 +7,7 @@ on:
 permissions:
   contents: read
 
-model: auto
+model: gpt-4.1
 
 tools:
   edit:
