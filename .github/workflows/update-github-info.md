@@ -7,6 +7,8 @@ on:
 permissions:
   contents: read
 
+model: auto
+
 tools:
   edit:
   web-fetch:
